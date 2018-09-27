@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.5输入字符串（拼接
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "自定义一个命名空间", "自定义一个命名空间\自定义一个命名空间.vcxproj", "{418DC50D-A1E1-4AEC-85E1-A7612A706749}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10-10复习", "10-10复习\10-10复习.vcxproj", "{C8F3319E-D836-4281-AB9A-BA99E9FF937C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{418DC50D-A1E1-4AEC-85E1-A7612A706749}.Release|x64.Build.0 = Release|x64
 		{418DC50D-A1E1-4AEC-85E1-A7612A706749}.Release|x86.ActiveCfg = Release|Win32
 		{418DC50D-A1E1-4AEC-85E1-A7612A706749}.Release|x86.Build.0 = Release|Win32
+		{C8F3319E-D836-4281-AB9A-BA99E9FF937C}.Debug|x64.ActiveCfg = Debug|x64
+		{C8F3319E-D836-4281-AB9A-BA99E9FF937C}.Debug|x64.Build.0 = Debug|x64
+		{C8F3319E-D836-4281-AB9A-BA99E9FF937C}.Debug|x86.ActiveCfg = Debug|Win32
+		{C8F3319E-D836-4281-AB9A-BA99E9FF937C}.Debug|x86.Build.0 = Debug|Win32
+		{C8F3319E-D836-4281-AB9A-BA99E9FF937C}.Release|x64.ActiveCfg = Release|x64
+		{C8F3319E-D836-4281-AB9A-BA99E9FF937C}.Release|x64.Build.0 = Release|x64
+		{C8F3319E-D836-4281-AB9A-BA99E9FF937C}.Release|x86.ActiveCfg = Release|Win32
+		{C8F3319E-D836-4281-AB9A-BA99E9FF937C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
